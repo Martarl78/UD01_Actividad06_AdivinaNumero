@@ -35,8 +35,3 @@ UD01_Actividad06_AdivinaNumero/
 - 🟣 **Kotlin 2.2** (incluido en IntelliJ IDEA)
 - 💻 **IntelliJ IDEA** (recomendado)
 
-
-
-⭐ *Si te ha gustado el proyecto, ¡déjale una estrella!* ⭐
-
-</div>
